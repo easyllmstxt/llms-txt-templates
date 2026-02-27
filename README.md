@@ -9,8 +9,18 @@ Used & Maintained by [Easyllmstxt.com](https://easyllmstxt.com).
 - **Industry Specific:** Tailored sections for SaaS, E-commerce, Real Estate, and more.
 - **RAG Ready:** Perfect for context injection in AI Chatbots and Voice Agents.
 
-## 📂 Repository Structure
-- `/templates`: Contains all `.md` files (e.g., `01_Developer_Tools.md`, `02_AI_and_Machine_Learning.md`...).
+### 📂 Repository Structure
+
+The core of this repository lies in the `/templates` directory. We categorize templates by industry to ensure the highest AI-readability.
+
+| Icon | Industry | Template File | Status |
+| :--- | :--- | :--- | :--- |
+| 🛠 | **Developer Tools** | [`01_Developer_Tools.md`](./templates/01_Developer_Tools.md) | ✅ Ready |
+| 🤖 | **AI & Machine Learning** | [`02_AI_and_Machine_Learning.md`](./templates/02_AI_and_Machine_Learning.md) | ✅ Ready |
+| 📊 | **Data & Analytics** | [`03_Data_and_Analytics.md`](./templates/03_Data_and_Analytics.md) | ✅ Ready |
+| ☁️ | **Infrastructure & Cloud** | [`04_Infrastructure_and_Cloud.md`](./templates/04_Infrastructure_and_Cloud.md) | ✅ Ready |
+
+> 💡 **Tip:** View the full list of 25+ industries directly in the [**/templates**](./templates) folder.
 
 ## 🚀 How to use
 1. **Manual:** Browse the `/templates` folder, copy the content of the industry you need, and save it as `llms.txt` on your server.
