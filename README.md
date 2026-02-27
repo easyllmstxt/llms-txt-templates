@@ -22,9 +22,15 @@ The core of this repository lies in the `/templates` directory. We categorize te
 
 > 💡 **Tip:** View the full list of 25+ industries directly in the [**/templates**](./templates) folder.
 
-## 🚀 How to use
-1. **Manual:** Browse the `/templates` folder, copy the content of the industry you need, and save it as `llms.txt` on your server.
-2. **Automatic:** Use [Easyllmstxt.com](https://easyllmstxt.com) to crawl your site and auto-fill these templates using AI.
+### 🚀 How to Use These Templates
+
+1. **Pick a Template:** Choose the `.md` file in the `/templates` folder that best matches your industry.
+2. **Customize:** Copy the content and replace the placeholders (e.g., `[Company Name]`, `[Product Features]`) with your actual data.
+3. **Rename & Deploy:** - **Crucial:** Save your final file as **`llms.txt`** (not `.md`).
+   - Place it in the root directory of your website (e.g., `https://yourdomain.com/llms.txt`).
+4. **Verify:** Test it by navigating to your domain in a browser or by using our [Autofill Tool](https://easyllmstxt.com).
+
+> 💡 **Pro Tip:** While we use `.md` extension here for better GitHub rendering, LLM crawlers specifically look for the filename `llms.txt`.
 
 ## 🤝 Contributing
 We love contributions! If you have a better structure for a specific industry:
