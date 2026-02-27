@@ -20,8 +20,7 @@ Used & Maintained by [Easyllmstxt.com](https://easyllmstxt.com).
 We love contributions! If you have a better structure for a specific industry:
 1. Fork this repository.
 2. Add your template in `/templates`.
-3. Update `metadata.json`.
-4. Create a Pull Request.
+3. Create a Pull Request.
 
 ## 📜 License
 MIT License - Feel free to use and modify for your own projects.
